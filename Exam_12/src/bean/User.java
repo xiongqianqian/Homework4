@@ -4,6 +4,7 @@ public class User {
     private String username;  
     private String password;
 
+    String name;
 
     public User(String username, String password) {  
         super();  
